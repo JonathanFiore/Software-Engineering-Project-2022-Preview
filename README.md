@@ -63,7 +63,7 @@ The implemented extra functionalities are:
 
 ## Documentation
 
-In  the  folder  **[deliveries](https://github.com/JonathanFiore/SoftwareEngineeringProject2022/tree/main/deliveries)** there's the project's documentation, complete with: initial and final **class diagrams**, **communication protocol**, sent and received **peer reviews**.
+In  the  folder  **[deliveries]** there's the project's documentation, complete with: initial and final **class diagrams**, **communication protocol**, sent and received **peer reviews**.
 
   
 ### UML
