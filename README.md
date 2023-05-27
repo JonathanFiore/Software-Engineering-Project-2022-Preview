@@ -4,7 +4,7 @@
 
 **The application contains Graphical Assets owned by Cranio Creations, if you want to check the repository which contains all the source code ask the project owners**
 
-This project is the final test of **"Software Engineering"** course and it consists in the implementation of the  **[Eriantys](https://craniointernational.com/products/eriantys/)**  board game made by **Cranio Creations**.
+This project is the final test of **"Software Engineering"** course and it consists in the implementation of the  **[Eriantys]**  board game made by **Cranio Creations**.
 
 <img src="https://craniointernational.com/2021/wp-content/uploads/2021/06/ERIANTYS-BOX-3D.png" width=250px height=250 px align="right" />
 
