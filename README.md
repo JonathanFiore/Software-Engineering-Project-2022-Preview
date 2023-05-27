@@ -39,7 +39,7 @@ This project is the final test of **"Software Engineering"** course and it consi
 
 | Functionality | Status|
 |:---------------:|:----------:|
-|Simplified Rules|"&#2705;"|
+|Simplified Rules|🟢|
 |Complete Rules|🟢|
 |Socket|🟢|
 |CLI|🟢| 
