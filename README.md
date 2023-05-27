@@ -1,4 +1,6 @@
-# Eriantys Board Game - 2021/2022 - [SANPIETRO - group 33] 
+# Eriantys Board Game - 2021/2022
+
+The project received the maximum score (30L)
 
 This project is the final test of **"Software Engineering"** course and it consists in the implementation of the  **[Eriantys](https://craniointernational.com/products/eriantys/)**  board game made by **Cranio Creations**.
 
