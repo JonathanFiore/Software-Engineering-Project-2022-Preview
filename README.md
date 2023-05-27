@@ -2,6 +2,8 @@
 
 **The project received the maximum score (30L)**
 
+**The application contains Graphical Assets owned by Cranio Creations, if you want to check the repository which contains all the source code ask the project owners**
+
 This project is the final test of **"Software Engineering"** course and it consists in the implementation of the  **[Eriantys](https://craniointernational.com/products/eriantys/)**  board game made by **Cranio Creations**.
 
 <img src="https://craniointernational.com/2021/wp-content/uploads/2021/06/ERIANTYS-BOX-3D.png" width=250px height=250 px align="right" />
@@ -71,15 +73,15 @@ In  the  folder  **[deliveries]** there's the project's documentation, complete 
 The project's class  diagrams  in  the  Unified  Modelling  Language can be found in the following folders:
 
 
--  **[Initial  UML](https://github.com/JonathanFiore/SoftwareEngineeringProject2022/tree/main/deliveries/uml/initialUML)**
+-  **[Initial  UML]**
 
--  **[Final  UML](https://github.com/JonathanFiore/SoftwareEngineeringProject2022/tree/main/deliveries/uml/finalUML)**
+-  **[Final  UML]**
 
 
 
 ### Communication Protocol
 
-The communication protocol can be found **[here](https://github.com/JonathanFiore/SoftwareEngineeringProject2022/blob/main/deliveries/protocol_documentation.pdf)**.
+To check The communication protocol ask the project owners.
 
 <br/>
 
@@ -95,7 +97,7 @@ The jars will be placed into the folder ```target``` and named ```Client.jar``` 
 
 ## Execution Instructions
 
-  The jars can be found **[here](https://github.com/JonathanFiore/SoftwareEngineeringProject2022/tree/main/deliveries/jar)**.
+  To get The jars ask the project owners.
 
   
 
