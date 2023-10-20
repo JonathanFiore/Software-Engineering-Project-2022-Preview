@@ -40,13 +40,13 @@ This project is the final test of **"Software Engineering"** course and it consi
 | Functionality | Status|
 |:---------------:|:----------:|
 |Simplified Rules|:white_check_mark:|
-|Complete Rules|🟢|
-|Socket|🟢|
-|CLI|🟢| 
-|GUI|🟢|
-|All Character Cards|🟢|
-|4 Players Game|🟢|
-|Multiple Games|🟢|
+|Complete Rules|:white_check_mark:|
+|Socket|:white_check_mark:|
+|CLI|:white_check_mark:| 
+|GUI|:white_check_mark:|
+|All Character Cards|:white_check_mark:|
+|4 Players Game|:white_check_mark:|
+|Multiple Games|:white_check_mark:|
 |Persistence|🔴|
 |Disconnection Resilience|🔴|
 
