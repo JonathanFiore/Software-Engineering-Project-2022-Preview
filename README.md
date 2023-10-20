@@ -6,7 +6,7 @@
 
 This project is the final test of **"Software Engineering"** course and it consists in the implementation of the  **[Eriantys]**  board game made by **Cranio Creations**.
 
-<img src="https://craniointernational.com/2021/wp-content/uploads/2021/06/ERIANTYS-BOX-3D.png" width=250px height=250 px align="right" />
+<img src="Image.png" width=250px height=250 px align="right" />
 
 
 **Table of contents:**
