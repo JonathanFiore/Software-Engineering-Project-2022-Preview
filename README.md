@@ -29,7 +29,7 @@ This project is the final test of **"Software Engineering"** course and it consi
 ## Group Members 
 
  - [**Gregorini** Michela](https://github.com/MichelaGregorini) 
- - [**Fiore** Jonathan](https://github.com/JFiore00)
+ - [**Fiore** Jonathan](https://github.com/JonathanFiore)
  - [**Gallicola** Renato](https://github.com/RenatoGallicola)
 
 <br/>
