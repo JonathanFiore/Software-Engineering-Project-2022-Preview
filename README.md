@@ -81,7 +81,7 @@ The project's class  diagrams  in  the  Unified  Modelling  Language can be foun
 
 ### Communication Protocol
 
-To check The communication protocol ask the project owners.
+To check the communication protocol ask the project owners.
 
 <br/>
 
