@@ -6,7 +6,7 @@
 
 This project is the final test of **"Software Engineering"** course and it consists in the implementation of the  **[Eriantys]**  board game made by **Cranio Creations**.
 
-<img src="Image.png" width=250px height=250 px align="right" />
+<img src="ImagesREADME/Eriantys.png" width=250px height=250 px align="right" />
 
 
 **Table of contents:**
@@ -126,5 +126,14 @@ Choose CLI[0] or GUI[1]
 press ```0``` to play using the CLI or press ```1``` to play using the GUI.
 
 _NB: to properly play using the CLI on Windows, it is necessary to install **[Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=it-it&gl=IT)** , because Windows CMD doesn't support special Unicode characters._
+
+### Pictures:
+
+<img src="ImagesREADME/Img1.jpg" />
+<img src="ImagesREADME/Img2.jpg" />
+<img src="ImagesREADME/Img3.jpg" />
+<img src="ImagesREADME/Img4.jpg" />
+<img src="ImagesREADME/Img5.jpg" />
+
   
 
