@@ -129,11 +129,11 @@ _NB: to properly play using the CLI on Windows, it is necessary to install **[Wi
 
 ### Pictures:
 
-<img src="ImagesREADME/Img1.jpg" />
-<img src="ImagesREADME/Img2.jpg" />
-<img src="ImagesREADME/Img3.jpg" />
-<img src="ImagesREADME/Img4.jpg" />
-<img src="ImagesREADME/Img5.jpg" />
+<img src="ImagesREADME/Img1.JPG" />
+<img src="ImagesREADME/Img2.JPG" />
+<img src="ImagesREADME/Img3.JPG" />
+<img src="ImagesREADME/Img4.JPG" />
+<img src="ImagesREADME/Img5.JPG" />
 
   
 
